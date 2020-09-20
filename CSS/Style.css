@@ -1,21 +1,17 @@
-header
-  (Kirsten Volmer)
-font "comic sans"
-font-size 48
-colorgroup "#096FB6"
-
-body 
-(WDD230: Assignment Portal)
-font "bembo"
-font-size 36
-colorgroup  "#1D262D"
-
-
-footer{
-
+h1 {
+font-family: comic sans;
+font-size: 48px;
+color: "#096FB6";
 }
-CR, name, Utah, BYUI Online Learning (https://www.byui.edu/online)
-Font "bembo"
-font-size 14
-last updated date: time
-colorgroup  "#666B6F"
+
+main { 
+font-family: bembo;
+font-size: 36px;
+color: "#1D262D";
+}
+
+footer {
+fontfamily: bembo;
+font-size: 14px;
+color;  "#666B6F";
+}
